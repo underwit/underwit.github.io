@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>mindless blog</title>
+    <link>https://underwit.github.io/</link>
+    <description>Recent content on mindless blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 May 2021 15:47:32 +0300</lastBuildDate><atom:link href="https://underwit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dungeon Crawl Stone Soup быстрый старт</title>
+      <link>https://underwit.github.io/posts/dcss/quickstart/</link>
+      <pubDate>Tue, 04 May 2021 15:47:32 +0300</pubDate>
+      
+      <guid>https://underwit.github.io/posts/dcss/quickstart/</guid>
+      <description>Dungeon Crawl Быстрый старт Перевод официального руководства с некоторыми дополнениями.
+Итак, вы хотите сразу же начать играть в Dungeon Crawl, не вникая в руководство? Прочтите это небольшое руководство по Dungeon Crawl и вы получите необходимые для начала знания.
+Я предлагаю распечатать это руководство и следовать ему, во время ваших первых игр. Вы можете дважды нажать ?, чтобы посмотреть список команд. Вам также следует попробовать обучающий режим; это займет всего несколько минут.</description>
+    </item>
+    
+  </channel>
+</rss>
